@@ -1,49 +1,93 @@
-# Akshita Golakiya
+# Hi there 👋 I'm Akshita Golakiya
 
-MS Computer Engineering | Embedded Systems Specialization  
-San Diego, CA  
+🎓 MS Computer Engineering (Embedded Systems) — San Diego State University  
+📍 San Diego, CA  
 
-Embedded Systems Engineer with 4+ years of experience in firmware validation and hardware–software integration for Class II medical devices. Currently pursuing a Master’s in Computer Engineering with focus on real-time systems (RTOS) and wireless sensor networks.
+Embedded Systems Engineer with 4+ years of experience developing and validating firmware for microcontroller-based systems in regulated medical device environments.
 
----
-
-## Technical Focus
-
-- Embedded C & Microcontroller Programming (ATmega328P/PB)
-- Real-Time Scheduling & RTOS Concepts
-- Peripheral Configuration (GPIO, ADC, Timers, UART)
-- Interrupt-Driven System Design
-- Wireless Sensor Networks (IEEE 802.15.4)
-- Firmware Verification & Validation (V&V)
+I work on systems where hardware and software meet — focusing on reliability, timing, and performance under real-world constraints.
 
 ---
 
-## Selected Projects
+## 🔬 Technical Focus
 
-### Real-Time Mixed System Task Scheduling Simulator
-- Built a modular discrete-time scheduling simulator supporting periodic and aperiodic tasks.
-- Implemented EDF and Rate Monotonic (RM) scheduling along with SRTF and MLQ.
-- Performed comparative workload analysis using statistical evaluation and visualization.
-
-### Obstacle Detection for Visually Impaired
-- Developed a real-time obstacle detection system in Embedded C on an Arduino-based microcontroller with ultrasonic sensors.
-- Implemented interrupt-driven feedback mechanisms with fail-safe logic achieving 99% reliability.
-
-### Hybrid Cluster-Tree / Mesh Routing Protocol
-- Designed and simulated a hybrid routing protocol for IEEE 802.15.4-based wireless sensor networks using Python.
-- Implemented neighbor discovery, hierarchical routing, and failure recovery mechanisms.
+- Embedded C & firmware development (ATmega328P/PB, ESP32)  
+- Real-time systems and scheduling (FreeRTOS, RTOS concepts)  
+- Peripheral configuration (GPIO, ADC, Timers, UART, SPI, I2C)  
+- Interrupt-driven system design  
+- Wireless sensor networks (IEEE 802.15.4, routing protocols)  
+- Low-level debugging and system reliability  
+- Firmware verification & validation (V&V)  
 
 ---
 
-## Tools & Technologies
+## 🧠 What I Work On
 
-**Languages:** C, C++, Python, MATLAB  
-**Embedded:** Embedded C, ATmega328PB, RTOS concepts  
-**Networking:** IEEE 802.15.4, Routing protocols  
-**Tools:** MPLAB X IDE, Atmel Studio, Git  
-**Platforms:** Linux, Windows, macOS  
+- Systems that bridge hardware ↔ software  
+- Real-time and resource-constrained environments  
+- Low-latency communication and reliable data pipelines  
+- Architectures that scale from prototype to deployment
 
 ---
 
+## 🚀 Projects
+
+### ⚙️ Real-Time Mixed System Task Scheduling Simulator
+- Designed a modular RTOS-inspired scheduling simulator in C++ on Linux for mixed workloads  
+- Implemented EDF, Rate Monotonic (RM), SRTF, and MLQ scheduling algorithms  
+- Benchmarked CPU utilization, deadline miss rate, and context-switch overhead using structured logging  
+
+---
+
+### 📡 Hybrid Cluster-Tree / Mesh Routing Protocol (WSN)
+- Designed and simulated a hybrid routing protocol for IEEE 802.15.4-based wireless sensor networks  
+- Implemented neighbor discovery, hierarchical routing, and fault-tolerant recovery mechanisms  
+- Evaluated network performance under node and link failure scenarios  
+
+---
+
+### 🚶 Obstacle Detection for Visually Impaired
+- Developed real-time embedded firmware in C for ultrasonic-based obstacle detection  
+- Implemented interrupt-driven architecture with haptic and auditory feedback  
+- Designed fail-safe logic ensuring deterministic response and 99% system reliability  
+
+---
+
+### 🌐 WordEcho – Full Stack Blog Platform
+- Built a full-stack blog platform with secure authentication and CRUD-based content management  
+- Developed backend services using Node.js and MongoDB  
+
+---
+
+## 🧪 What You'll Find Here
+
+- Embedded systems experiments and firmware projects  
+- Scheduling and systems simulation frameworks  
+- Wireless networking and protocol implementations  
+- Low-level debugging and performance analysis work
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Languages:** C, C++, Python, Bash  
+**Embedded:** Embedded C, ATmega328PB, ESP32, FreeRTOS  
+**Networking:** TCP/IP, Wi-Fi, IEEE 802.15.4, Routing protocols  
+**Debugging:** GDB, Valgrind, Logic Analyzer, Oscilloscope, Log analysis  
+**Tools:** Git, MPLAB X IDE, Atmel Studio  
+**Platforms:** Linux, macOS, Windows   
+
+---
+
+## 🤝 Collaboration
+
+I’m interested in working on:
+
+- Embedded systems and firmware development  
+- Wireless sensor networks and edge systems  
+- Real-time systems and simulation platforms
+
+---
+  
 📫 Contact: agokaliya4151@sdsu.edu  
 🔗 LinkedIn: linkedin.com/in/akshitagolakiya
